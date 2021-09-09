@@ -1,6 +1,6 @@
 # Angr CTF
 
-**Original work: https://github.com/jakespringer/angr_ctf**
+**Derived (downloaded and modified significantly) from: https://github.com/jakespringer/angr_ctf**
 
 This repository contains all the files I needed to get basic understanding of how to use Angr. I've followed the material `materials/SymbolicExecution.pdf` and Angr documentation, and I've solved all Angr CTF examples from https://github.com/jakespringer/angr_ctf whose solutions are also in this repository. Solutions in this repository are different from _jakespringer_ solutions because they are adjusted for (at the time) newer version of angr as of 15.6.2021., but the results are (mostly) the same.
 
@@ -9,7 +9,7 @@ Original workbook like tasks can be found in jakespringers repository in `XY_tas
 Directories in the root of this repo:
  - `bin` - contains binaries used in this CTF;
  - `materials` - contains PDF of presentation from which I've learned a lot;
- - `my_playground` - contains some examples I've came up with during my learning phase;
+ - `my_playground` - contains some examples I've come up with during my learning phase;
  - `my_solutions` - contains solutions I've come up with for angr on 15.6.2021.;
  - `official_solutions` - solutions found on `jakespringer` repo;
 
